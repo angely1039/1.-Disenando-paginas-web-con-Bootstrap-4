@@ -1,2 +1,3 @@
 # 1.-Disenando-paginas-web-con-Bootstrap-4
 Curso 1 de 4 Full Stack Web Development
+Este curso está dedicado a Bootstrap 4, que es una de las herramientas más populares y prestigiosas del mundo. Bootstrap 4 da un marco de trabajo para el diseño web y contiene muchos componentes. Bootstrap cuenta con un equipo de desarrollo que constantemente están realizando mejoras e innovaciones, por lo cual, te sugerimos que te mantengas actualizado de las novedades. Por otro parte, la comunidad de usuarios de Bootstrap es enorme y de todas partes del mundo, cualquier inquietud o duda que tengas, siempre habrá alguien bien dispuesto a ayudarte desde algún punto del planeta.
